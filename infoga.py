@@ -1,14 +1,15 @@
 #!/usr/bin/env python
-import urllib3, argparse, sys, signal, os
+import urllib3, argparse, sys, os
 from urllib3 import Timeout
 from Colors import *
+from signal import SIGINT, signal
 
 os.system(command='clear')
 def handler(sign, frame):
     print(f"\n{bright_red}[!] Deteniendo programa...{end}\n\n")
     sys.exit(1)
 
-signal.signal(signal.SIGINT, handler)
+signal(SIGINT, handler)
 
 timeout = Timeout(connect=2.0, read=7.0)
 http = urllib3.PoolManager(timeout=timeout)
