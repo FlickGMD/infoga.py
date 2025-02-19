@@ -48,7 +48,7 @@ python3 infoga.py [PARAMETROS] [OPCIONES]
 python3 infoga.py --phone +34 612 345 678 --api TU_API_KEY --output resultado.txt
 ```
 
-![imagen](./images/2025-02-19_23-50-21.png)
+![imagen](./images/test.jpg)
 
 Esto analizará el número de teléfono y guardará la información en `resultado.txt`.
 
