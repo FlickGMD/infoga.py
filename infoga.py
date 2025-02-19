@@ -25,7 +25,7 @@ def print_banner():
 📞 {bright_white}INFOGA - OSINT para números de teléfono{end} 📞
 ───────────────────────────────────────────
 🔍 {bright_white}Encuentra información de un número en segundos{end}
-👤 {bright_white}Autor: Tu Flick | GitHub: https://github.com/FlickGMD {end}
+👤 {bright_white}Autor: Flick | GitHub: https://github.com/FlickGMD {end}
     """
 
 def main():
