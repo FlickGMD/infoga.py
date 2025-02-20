@@ -20,7 +20,7 @@ pip3 install --disable-pip-version-check -r requirements.txt
 Ejecuta el script con los siguientes parámetros:
 
 ```bash
-python3 infoga.py [PARAMETROS] [OPCIONES]
+python3 infoga.py [PARAMETROS] [ARGUMENTOS]
 ```
 
 ### Opciones disponibles:
