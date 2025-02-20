@@ -1,6 +1,4 @@
-# 📌 Infoga - Herramienta de OSINT para Números de Teléfono
-
-Infoga es una herramienta de OSINT diseñada para recopilar información sobre números de teléfono utilizando APIs externas.
+Infoga es una herramienta de OSINT inspirada en [phoneinfoga](https://sundowndev.github.io/phoneinfoga) y diseñada para recopilar información sobre números de teléfono utilizando APIs externas.
 Para sacar una API visita el siguiente [enlace](https://apilayer.com/)
 
 ## 🚀 Instalación
