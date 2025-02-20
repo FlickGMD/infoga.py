@@ -7,7 +7,7 @@ Clona el repositorio y asegúrate de tener las dependencias necesarias:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/infoga.git
+git clone https://github.com/FlickGMD/infoga.py
 cd infoga
 
 # Instalar dependencias
