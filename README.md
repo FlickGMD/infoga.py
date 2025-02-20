@@ -8,7 +8,7 @@ Clona el repositorio y asegúrate de tener las dependencias necesarias:
 ```bash
 # Clonar el repositorio
 git clone https://github.com/FlickGMD/infoga.py
-cd infoga
+cd infoga.py
 
 # Instalar dependencias
 python3 -m venv .venv && source .venv/bin/activate
